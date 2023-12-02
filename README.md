@@ -3,7 +3,7 @@
 
 *Overview*
 
-*This project explores your music playlist and YouTube subscriptions to gain insights into your music preferences and content consumption habits.*
+*This project explores your music playlist to gain insights into your music preferences and content consumption habits.*
 
 **Step 1: Data Import and Cleaning**
 
@@ -46,33 +46,7 @@ Explore correlation between song duration and popularity.
 Discover patterns in listening habits.
 
 
-**Step 4: Insights from Subscription Data**
-
-*Tools: Python (Pandas, Matplotlib, Seaborn)*
-
-
-Identify most subscribed channels.
-
-Analyze subscriptions across genres.
-
-Explore correlation between subscriptions and video uploads.
-
-Identify channels related to music interests.
-
-
-**Step 5: Integration and Further Analysis**
-
-*Tools: Python (Pandas, Matplotlib, Seaborn)*
-
-
-Integrate insights from both music and subscription data.
-
-Identify correlations between music preferences and subscribed channels.
-
-Explore how listening habits relate to subscribed channels.
-
-
-**Step 6: Visualization and Reporting**
+**Step 4: Visualization and Reporting**
 
 *Tools: Python (Matplotlib, Seaborn), Jupyter Notebooks*
 
@@ -90,4 +64,4 @@ Run the provided Python script in Jupyter Notebook or your preferred environment
 
 View the generated visualizations and insights.
 
-Explore the relationships between your music playlist and YouTube subscriptions.
+Explore the relationships between your music playlist.
